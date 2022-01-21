@@ -193,17 +193,6 @@ Then you can simply specify the dataset you would like to use by `--dataset Refe
 
 Please refer to [`Scan2Cad-2D`](Scan2Cap-2D) for more information.
 
-## Citation
-If you found our work helpful, please kindly cite our paper via:
-```bibtex
-@inproceedings{chen2021scan2cap,
-  title={Scan2Cap: Context-aware Dense Captioning in RGB-D Scans},
-  author={Chen, Zhenyu and Gholami, Ali and Nie{\ss}ner, Matthias and Chang, Angel X},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={3193--3203},
-  year={2021}
-}
-```
 
 ## License
 Scan2Cap is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](LICENSE).
